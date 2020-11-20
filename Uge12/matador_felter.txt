@@ -1,0 +1,6 @@
+1	Start
+40	Rådhuspladsen
+20	Strandvejen
+21	Helle
+16	DFDS
+26	Scandic
